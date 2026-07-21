@@ -1,5 +1,7 @@
 # Deliberation by Design: Structural Protocols Eliminate Factual Attrition in Multi-Agent LLM Deliberation
 
+> **SUPERSEDED**: 이 영문 v0.2는 구판이다. gap-analysis.md의 지적을 전면 반영한 최신판(v0.3, 한국어)은 `paper-draft-ko.md`이며, v0.2의 "27.6%" 수치는 오류로 확인되어 v0.3에서 앵커 실측치로 정정되었다.
+
 **Draft v0.2 (complete) — 2026-07-21.** Written against the structure of the anchor paper (Wan et al., 2026, arXiv:2606.03032) per the `paper-writing` skill. **All numbers marked ⟨pred⟩ are predicted values** — the effect sizes the FOL-9′ hypothesis commits to in advance, functioning as a pre-registration. They must be replaced with measured values (pilot harness ready in `experiment/`) before submission. Anchor numbers (27.6%, 19.2%, 65–76%, 58.9%, etc.) are real, from the anchor paper.
 
 ---
