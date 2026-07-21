@@ -45,7 +45,7 @@ FOL-9′   (교체) — 그러나 보장 수준 개입으로 제거 가능하다
 
 > **∀d [ (MultiAgentDeliberation(d) ∧ ¬GuaranteesFactCarriage(d)) → ( ReachesConsensus(d) ∧ ¬GroundedInEvidence(Consensus(d)) ) ]**
 
-환상은 숙의의 본질이 아니라 사실 운반(fact carriage) 보장의 부재다 — 사실 운반이 보장되지 않은(대화가 사실의 유일한 운반체인) 숙의만이 환상이다. (구판 술어 ¬StructuredProtocol은 "앵커의 baseline도 설계된 프로토콜"이라는 반박에 취약하여 교체됨: 문제는 설계의 유무가 아니라 설계가 사실 운반을 보장하는가이다.)
+환상은 숙의의 본질이 아니라 사실 운반(fact carriage) 보장의 부재다 — 사실 운반이 보장되지 않은(대화가 사실의 유일한 운반체인) 숙의만이 환상이다. (구판 술어 ¬StructuredProtocol은 "Wan et al. (2026a)의 baseline도 설계된 프로토콜"이라는 반박에 취약하여 교체됨: 문제는 설계의 유무가 아니라 설계가 사실 운반을 보장하는가이다.)
 
 ## 상태
 
