@@ -1,6 +1,6 @@
-# 설계된 숙의: 사실 운반을 보장하는 프로토콜은 다중 에이전트 LLM 숙의의 사실 소실을 제거한다
+# 보장된 숙의: 사실 운반 보장은 다중 에이전트 LLM 숙의에서 사실이 소실되는 것을 막는다
 
-**Deliberation by Design: Guaranteed Fact Carriage Eliminates Factual Attrition in Multi-Agent LLM Deliberation**
+**Deliberation by Guarantee: Guaranteed Fact Carriage Eliminates Factual Attrition in Multi-Agent LLM Deliberation**
 
 **v0.3 — 한국어 전면 수정판, 2026-07-21.** 본 판은 영문 초고 v0.2를 앵커 논문(Wan et al., 2026a)의 형식 관행에 맞추어 학술 한국어로 전면 재작성한 것이다. ⟨pred⟩ 표기가 붙은 모든 수치는 사전등록(pre-registration) 예측 — FOL-9′ 가설이 사전에 약속하는 효과 크기 — 이며, 제출 전 실측치로 교체되어야 한다. ⟨pred⟩ 표기가 없는 앵커 수치는 실측이다. **정정:** v0.2의 초록·서론에서 Unstructured 조건의 3라운드 결정적 사실 생존율로 사용된 "27.6%"는 앵커 실측(시스템 수준 평균 .617, 범위 .322–.783)과 일치하지 않는 전기 오류로 확인되어, 본 판에서 전량 삭제·정정하였다.
 
